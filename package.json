@@ -1,0 +1,23 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r     <img src=\"https://ik.imagekit.io/jlzh3neixu/form_j1tSdrtJ4r9.png\">\r </h1>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julombe/contact-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julombe/contact-form/issues"
+  },
+  "homepage": "https://github.com/julombe/contact-form#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
