@@ -20,7 +20,7 @@ Foram utilizadas as seguintes ferramentas:
 - JavaScript
 ---
 
-# Como baixar o projecto
+## Como baixar o projecto
 
 ```bash
 # Clonar o repositório
@@ -28,7 +28,7 @@ $ https://github.com/julombe/contact-form
 ````
 ---
 
-# 🏷Author
+## 🏷Author
 
 Made with love  💜 by José Ulombe 
 - [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ulombe-31744480/)
