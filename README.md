@@ -18,6 +18,7 @@ Foram utilizadas as seguintes ferramentas:
 - HTML - marcação de texto
 - CSS - estilização da página
 - JavaScript
+- Nunjucks
 ---
 
 ## Como baixar o projecto
