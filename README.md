@@ -4,13 +4,13 @@
 
 ---
 
-# About Contact form
+## About Contact form
 
 Este formulário de contacto foi desenvolvido para praticar os conhecimentos de HTML, CSS e JavaScript.
 
 ---
 
-# 📂Ferramentas Utilizadas
+## 📂Ferramentas Utilizadas
 
 Foram utilizadas as seguintes ferramentas:
 
