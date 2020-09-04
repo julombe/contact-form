@@ -6,6 +6,9 @@ const nunjucks = require('nunjucks')
 
 const server = express()
 
+//chamando o estilo css//
+server.use(express.static('public'))
+
 
 //configurando template engine nunjucks//
 server.set("view engine", "html")
@@ -15,7 +18,7 @@ nunjucks.configure("views", {
 
 //adicionando rotas//
 server.get("/", function(req, res) {
-    return res.send("Hi")
+    return res.render("index")
 })
 
 
