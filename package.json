@@ -4,7 +4,7 @@
   "description": "<h1 align=\"center\">\r     <img src=\"https://ik.imagekit.io/jlzh3neixu/form_j1tSdrtJ4r9.png\">\r </h1>",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/julombe/contact-form#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
