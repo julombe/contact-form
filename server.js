@@ -6,7 +6,7 @@ const nunjucks = require('nunjucks')
 
 const server = express()
 
-//chamando o estilo css//
+//chamando o estilo css
 server.use(express.static('public'))
 
 
