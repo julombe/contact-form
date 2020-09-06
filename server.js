@@ -12,7 +12,6 @@ server.use(express.static('public'))
 
 //configurando template engine nunjucks//
 server.set("view engine", "html")
-
 nunjucks.configure("views", {
     express: server
 })
