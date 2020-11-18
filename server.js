@@ -9,6 +9,7 @@ const server = express()
 
 //chamando o estilo css
 server.use(express.static('public'))
+server.use(routes)
 
 
 //configurando template engine nunjucks//
