@@ -3,6 +3,7 @@
 
 const express = require('express')
 const nunjucks = require('nunjucks')
+const routes = require('./routes') //chamando o ficheiro de rotas
 
 const server = express()
 
